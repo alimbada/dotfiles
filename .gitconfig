@@ -1,0 +1,20 @@
+[user]
+	name = Ammaar Limbada
+	email = ammaar.limbada@madetech.com
+[core]
+	excludesfile = /Users/amaarlimbada/.gitignore_global
+	pager = less -FX
+[commit]
+	template = /Users/amaarlimbada/.stCommitMsg
+[diff]
+	tool = p4merge
+[merge]
+	tool = p4merge
+[mergetool "p4merge"]
+	path = /Users/amaarlimbada/Applications/p4merge.app/Contents/Resources/launchp4merge
+[difftool "sourcetree"]
+	cmd = /Users/amaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Users/amaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+	trustExitCode = true
