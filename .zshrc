@@ -5,6 +5,8 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+fpath=($fpath)
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -77,7 +79,7 @@ HYPHEN_INSENSITIVE="true"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git nvm npm python pip docker-compose exa-zsh)
+plugins=(git nvm npm python pip docker-compose exa-zsh brew bun)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -114,11 +116,43 @@ alias python="python3"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-autoload -Uz compinit && compinit
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
+zstyle ':completion:*:*:make:*' tag-order 'targets'
+autoload -Uz compinit && compinit
 
-path=(/opt/homebrew/bin /usr/local/bin /System/Cryptexes/App/usr/bin /usr/bin /bin /usr/sbin /sbin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin '/Users/amaarlimbada/opt/lgtv/bin')
-export PATH="/opt/homebrew/opt/postgresql@15/bin:$PATH"
+path=(/Users/ammaarlimbada/Applications/MKVtools.app/Contents/Resources/ffmpeg /Users/ammaarlimbada/Applications/MKVtools.app/Contents/Resources/mkvtoolnix /opt/homebrew/bin /usr/local/bin /System/Cryptexes/App/usr/bin /usr/bin /bin /usr/sbin /sbin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin '$HOME/opt/lgtv/bin')
+export PATH="$HOME/bin:/opt/homebrew/opt/postgresql@15/bin:$PATH"
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+alias dpss="docker ps --format 'table {{.ID}}	{{.Names}}	{{.Status}}'"
+alias gradle=./gradlew
+
+unsetopt share_history
+setopt inc_append_history_time
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# place this after nvm initialization!
+autoload -U add-zsh-hook
+
+load-nvmrc() {
+  [[ -a .nvmrc ]] || return
+
+  local nvmrc_path
+  nvmrc_path="$(nvm_find_nvmrc)"
+
+  if [ -n "$nvmrc_path" ]; then
+    local nvmrc_node_version
+    nvmrc_node_version=$(nvm version "$(cat "${nvmrc_path}")")
+
+    if [ "$nvmrc_node_version" = "N/A" ]; then
+      nvm install
+    elif [ "$nvmrc_node_version" != "$(nvm version)" ]; then
+      nvm use --silent
+    fi
+  elif [ -n "$(PWD=$OLDPWD nvm_find_nvmrc)" ] && [ "$(nvm version)" != "$(nvm version default)" ]; then
+    echo "Reverting to nvm default version"
+    nvm use default --silent
+  fi
+}
+
+add-zsh-hook chpwd load-nvmrc
+load-nvmrc
