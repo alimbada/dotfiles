@@ -1,4 +1,7 @@
-*
+/*
+!/Library
+/Library/*
+!/Library/KeyBindings
 
 !.gitconfig
 !.gitignore
