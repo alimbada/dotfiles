@@ -6,6 +6,7 @@
 !.gitconfig
 !.gitignore
 !.hammerspoon/
+!.iTerm2/
 !.inputrc
 !.p10k.zsh
 !.vimrc
