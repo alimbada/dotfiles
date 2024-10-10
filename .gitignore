@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.gitconfig
+!.inputrc
+!.p10k.zsh
+!.vimrc
+!.zshrc
