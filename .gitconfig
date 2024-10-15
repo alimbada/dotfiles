@@ -11,12 +11,16 @@
 [merge]
 	tool = p4merge
 [mergetool "p4merge"]
-	path = /Users/ammaarlimbada/Applications/p4merge.app/Contents/Resources/launchp4merge
+	path = /opt/homebrew/bin/p4merge
 [difftool "p4merge"]
-	cmd = /Users/ammaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$LOCAL\" \"$REMOTE\"
+	cmd = /opt/homebrew/bin/p4merge \"$LOCAL\" \"$REMOTE\"
 	path = 
 [mergetool "sourcetree"]
-	cmd = /Users/ammaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+	cmd = /opt/homebrew/bin/p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
 	trustExitCode = true
 [pull]
 	rebase = false
+[credential]
+	helper = /usr/local/share/gcm-core/git-credential-manager
+[credential "https://dev.azure.com"]
+	useHttpPath = true
