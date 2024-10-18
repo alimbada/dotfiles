@@ -17,10 +17,6 @@ exec_lgtv(){
     echo "$response"
 }
 
-command -v jq >/dev/null 2>&1 || { echo >&2 "Install jq first"; exit 1; }
-
-source "$HOME/lgtv-venv/bin/activate"
-
 APPID=$(exec_lgtv getForegroundAppInfo | jq --raw-output .payload.appId)
 
 exec_lgtv startApp com.webos.app.homeconnect && sleep 6
