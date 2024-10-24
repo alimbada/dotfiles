@@ -1,7 +1,12 @@
 /*
+
 !/Library
 /Library/*
 !/Library/KeyBindings
+
+!.config/
+/.config/*
+!/.config/plists
 
 !.gitconfig
 !.gitignore
