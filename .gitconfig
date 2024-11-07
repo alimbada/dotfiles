@@ -1,22 +1,7 @@
 [user]
 	name = Ammaar Limbada
-	email = ammaar.limbada@madetech.com
+	email = alimbada@users.noreply.github.com
 [core]
-	excludesfile = /Users/ammaarlimbada/.gitignore_global
 	pager = less -FX
-[commit]
-	template = /Users/ammaarlimbada/.stCommitMsg
-[diff]
-	tool = p4merge
-[merge]
-	tool = p4merge
-[mergetool "p4merge"]
-	path = \"/mnt/c/Program Files/Perforce/p4merge.exe\"
-[difftool "p4merge"]
-	cmd = \"/mnt/c/Program Files/Perforce/p4merge.exe\" \"$LOCAL\" \"$REMOTE\"
-	path = 
-[mergetool "sourcetree"]
-	cmd = \"/mnt/c/Program Files/Perforce/p4merge.exe\" \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
-	trustExitCode = true
 [pull]
 	rebase = false
