@@ -4,4 +4,5 @@ if status is-interactive
 end
 
 set -gx EDITOR nvim
-abbr -a -- l ls
+
+source ~/.config/fish/abbr.fish
