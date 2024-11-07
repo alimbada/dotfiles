@@ -7,6 +7,8 @@
 !.config/
 /.config/*
 !/.config/plists
+!/.config/fish
+!/.config/starship.toml
 
 !.gitconfig
 !.gitignore
