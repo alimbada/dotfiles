@@ -392,15 +392,6 @@
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>com.tinyspeck.slackmacgap</string>
-			<key>window-titles</key>
-			<array>
-				<string>Thread in</string>
-				<string>Huddle with</string>
-			</array>
-		</dict>
-		<dict>
-			<key>id</key>
 			<string>dev.zed.Zed</string>
 			<key>window-titles</key>
 			<array>
@@ -418,6 +409,20 @@
 			<string>com.docker.docker</string>
 			<key>window-titles</key>
 			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>us.zoom.xos</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.tinyspeck.slackmacgap</string>
+			<key>window-titles</key>
+			<array>
+				<string>Huddle</string>
+			</array>
 		</dict>
 	</array>
 	<key>floating-is-blacklist</key>
