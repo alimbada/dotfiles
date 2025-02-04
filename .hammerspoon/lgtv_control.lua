@@ -16,6 +16,7 @@ function exec_command(command)
 end
 
 hs.hotkey.bind({"cmd", "shift", "ctrl"}, "1", function()
+    exec_command("on")
     exec_command("setInput "..my_input)    
 end)
 
