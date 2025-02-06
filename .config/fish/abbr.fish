@@ -1,4 +1,3 @@
-abbr -a -- l ls
+abbr -a -- l eza
 abbr -a -- ls eza
 abbr -a -- ll 'eza -al'
-abbr -a -- tree 'eza -tree'
