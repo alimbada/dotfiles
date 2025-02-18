@@ -8,3 +8,5 @@ if status is-interactive
 end
 
 source ~/.config/fish/abbr.fish
+abbr -a -- vim nvim
+abbr -a -- vi nvim
