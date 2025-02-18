@@ -124,6 +124,8 @@ zstyle ':completion:*:*:make:*' tag-order 'targets'
 autoload -Uz compinit && compinit
 
 alias dpss="docker ps --format 'table {{.ID}}	{{.Names}}	{{.Status}}'"
+alias vi=nvim
+alias vim=nvim
 
 unsetopt share_history
 setopt inc_append_history_time
