@@ -624,6 +624,8 @@
 			<array>
 				<string>Developer Tools</string>
 				<string>Extension:</string>
+				<string>noVNC</string>
+				<string>Library</string>
 			</array>
 		</dict>
 		<dict>
@@ -693,6 +695,30 @@
 		<dict>
 			<key>id</key>
 			<string>com.apple.Notes</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>io.rancherdesktop.app</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.colliderli.iina</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.docker.docker</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.apple.ScreenSharing</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
@@ -880,6 +906,8 @@
 	<true/>
 	<key>migrated-select-two-pane-layout</key>
 	<true/>
+	<key>migrated-select-two-pane-right-layout</key>
+	<true/>
 	<key>migrated-select-wide-layout</key>
 	<true/>
 	<key>migrated-select-widescreen-tall-layout</key>
@@ -915,6 +943,14 @@
 	<key>migrated-throw-space-11</key>
 	<true/>
 	<key>migrated-throw-space-12</key>
+	<true/>
+	<key>migrated-throw-space-13</key>
+	<true/>
+	<key>migrated-throw-space-14</key>
+	<true/>
+	<key>migrated-throw-space-15</key>
+	<true/>
+	<key>migrated-throw-space-16</key>
 	<true/>
 	<key>migrated-throw-space-2</key>
 	<true/>
