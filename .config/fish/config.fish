@@ -6,6 +6,9 @@ if status is-interactive
     set -x FZF_DEFAULT_OPTS '--height 15  --layout reverse --border top'
     fzf --fish | source
     zoxide init --cmd cd fish | source
+    mise activate fish | source
+else
+    mise activate fish --shims | source
 end
 
 source ~/.config/fish/abbr.fish
