@@ -1,4 +1,5 @@
 set -gx EDITOR nvim
+set -x HOMEBREW_CASK_OPTS "--appdir=~/Applications --fontdir=/Library/Fonts"
 
 if status is-interactive
     # Commands to run in interactive sessions can go here
