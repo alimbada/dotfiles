@@ -24,7 +24,7 @@ exec_lgtv sendButton up up right enter && sleep 2
 exec_lgtv sendButton enter && sleep 2
 
 # number of `down`s here depends on the input ID; in this case I'm configuring HDMI 3
-exec_lgtv sendButton down down down left enter && sleep 2
+exec_lgtv sendButton down left enter && sleep 2
 
 exec_lgtv sendButton down down down down down down down down down enter && sleep 2
 
