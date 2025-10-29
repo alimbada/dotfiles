@@ -15,8 +15,17 @@
 [difftool "p4merge"]
 	cmd = /opt/homebrew/bin/p4merge \"$LOCAL\" \"$REMOTE\"
 	path = 
-[mergetool "sourcetree"]
-	cmd = /opt/homebrew/bin/p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+[mergetool "p4merge"]
+	cmd = /Users/ammaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
 	trustExitCode = true
 [pull]
 	rebase = false
+[difftool "p4merge"]
+	cmd = /Users/ammaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$LOCAL\" \"$REMOTE\"
+	path = 
+[difftool "sourcetree"]
+	cmd = /Users/ammaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Users/ammaarlimbada/Applications/p4merge.app/Contents/MacOS/p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+	trustExitCode = true

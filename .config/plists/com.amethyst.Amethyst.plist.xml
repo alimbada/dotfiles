@@ -4,314 +4,11 @@
 <dict>
 	<key>EncodedWindowManager</key>
 	<data>
-	eyJzY3JlZW5zIjp7InNjcmVlbk1hbmFnZXJzQ2FjaGUiOnsiMTZBQzkzMkItMTg2Ny00
-	QkY3LUJGNjYtMjkxRTA4MjMyMjQ4Ijp7ImxheW91dHNCeVNwYWNlVVVJRCI6eyI1RTBF
-	RTZEMy01MjJELTRFRDQtQkM0NS1DRkIxREJBREMwNjUiOlt7ImtleSI6IlpuVnNiSE5q
-	Y21WbGJnPT0iLCJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSJ9LHsi
-	a2V5IjoiZEdGc2JDMXlhV2RvZEE9PSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1
-	MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In0seyJkYXRhIjoiZXlKdFlX
-	bHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtl
-	eSI6ImRIZHZMWEJoYm1VPSJ9XX19LCIxMDRERTRDMi1BNTQ2LTRFRkYtQTNBRi1CNDhB
-	ODg0OTNGQTEiOnsibGF5b3V0c0J5U3BhY2VVVUlEIjp7IjVFMEVFNkQzLTUyMkQtNEVE
-	NC1CQzQ1LUNGQjFEQkFEQzA2NSI6W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55
-	WldWdUluMD0iLCJrZXkiOiJablZzYkhOamNtVmxiZz09In0seyJrZXkiOiJkR0ZzYkMx
-	eWFXZG9kQT09IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1
-	VUdGdVpWSmhkR2x2SWpvd0xqVTBPVGcyTnpRNE1ESXdORE0zTkROOSJ9LHsiZGF0YSI6
-	ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xq
-	VjkiLCJrZXkiOiJkSGR2TFhCaGJtVT0ifV0sIkNBMEFBMTUyLUVFOTYtNEExMy1BODFG
-	LTYxODdEMTgwODU0OSI6W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUlu
-	MD0iLCJrZXkiOiJablZzYkhOamNtVmxiZz09In0seyJrZXkiOiJkR0ZzYkMxeWFXZG9k
-	QT09IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpW
-	SmhkR2x2SWpvd0xqVjkifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0
-	WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In1d
-	LCJERUU1MTI4OC1EMDVCLTRCQzYtQUM0Mi00RUY5NUUxNDA4NjAiOlt7ImtleSI6Ilpu
-	VnNiSE5qY21WbGJnPT0iLCJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4w
-	PSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpW
-	SmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09In0seyJrZXkiOiJk
-	SGR2TFhCaGJtVT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlX
-	bHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9XSwiN0Y2NTJCRjItNTYwOC00NjJCLTk2OEQt
-	ODYxMTIyQ0NBRjQ1IjpbeyJrZXkiOiJablZzYkhOamNtVmxiZz09IiwiZGF0YSI6ImV5
-	SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0ifSx7ImtleSI6ImRHRnNiQzF5YVdkb2RB
-	PT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZK
-	aGRHbHZJam93TGpWOSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExD
-	SnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkSGR2TFhCaGJtVT0ifV0s
-	IjdCQ0RDOTRBLTVDQjMtNEU3OS1CQjgwLTFEMEMzNjZBQjAwRSI6W3siZGF0YSI6ImV5
-	SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0iLCJrZXkiOiJablZzYkhOamNtVmxiZz09
-	In0seyJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpV
-	TnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkifSx7ImtleSI6ImRI
-	ZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVds
-	dVVHRnVaVkpoZEdsdklqb3dMalY5In1dLCJBRjQ0N0U5Ri1GNzY5LTQwQUQtODQ4Qi0w
-	OTNFNEE2NTA2M0UiOlt7ImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9
-	Iiwia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpV
-	TnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0Zz
-	YkMxeWFXZG9kQT09In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENK
-	dFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwi
-	QjAxNUNCRTAtQTdDMi00NjI0LUE3M0MtNzZCN0IxRDFFRjkwIjpbeyJkYXRhIjoiZXlK
-	clpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSIsImtleSI6IlpuVnNiSE5qY21WbGJnPT0i
-	fSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpo
-	ZEdsdklqb3dMalY5Iiwia2V5IjoiZEdGc2JDMXlhV2RvZEE9PSJ9LHsia2V5IjoiZEhk
-	dkxYQmhibVU9IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1
-	VUdGdVpWSmhkR2x2SWpvd0xqVjkifV0sIjU2NjgzMkRFLUM2MTItNDY1NC1CQ0E5LTkx
-	NzNBOEJGNzg4MSI6W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0i
-	LCJrZXkiOiJablZzYkhOamNtVmxiZz09In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVO
-	dmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNi
-	QzF5YVdkb2RBPT0ifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0WVds
-	dVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In1dLCI3
-	QUUxQjBFMy1CMjY1LTQxQzQtOTFFOS1DMThENUFENkQxRkUiOlt7ImRhdGEiOiJleUpy
-	WlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9Iiwia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSJ9
-	LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhk
-	R2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09In0seyJkYXRhIjoiZXlK
-	dFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIs
-	ImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwiQ0NBRUQ5NTUtQjNBMS00M0VCLThCMkUtMTEz
-	QUVCQTcwMjdDIjpbeyJrZXkiOiJablZzYkhOamNtVmxiZz09IiwiZGF0YSI6ImV5SnJa
-	WGtpT2lKbWRXeHNjMk55WldWdUluMD0ifSx7ImtleSI6ImRHRnNiQzF5YVdkb2RBPT0i
-	LCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRH
-	bHZJam93TGpWOSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZ
-	V2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkSGR2TFhCaGJtVT0ifV0sIjVB
-	NkExRDQyLTdFRUUtNDZCQy1BMTA2LTcyQUM5QkJFREI4RiI6W3sia2V5IjoiWm5Wc2JI
-	TmpjbVZsYmc9PSIsImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9In0s
-	eyJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZk
-	VzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkifSx7ImRhdGEiOiJleUp0
-	WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5Iiwi
-	a2V5IjoiZEhkdkxYQmhibVU9In1dLCI4ODI5RkM0MS1EOUMwLTRERkYtOEI4My02QUQz
-	QkNDODdEOTMiOlt7ImtleSI6IlpuVnNiSE5qY21WbGJnPT0iLCJkYXRhIjoiZXlKclpY
-	a2lPaUptZFd4c2MyTnlaV1Z1SW4wPSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZk
-	VzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMx
-	eWFXZG9kQT09In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlX
-	bHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwiQ0M2
-	MzdFMTQtNUI4Qi00OUUzLUFENjAtNEE3NjYzQkFDOThGIjpbeyJkYXRhIjoiZXlKclpY
-	a2lPaUptZFd4c2MyTnlaV1Z1SW4wPSIsImtleSI6IlpuVnNiSE5qY21WbGJnPT0ifSx7
-	ImtleSI6ImRHRnNiQzF5YVdkb2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRX
-	NTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9LHsiZGF0YSI6ImV5SnRZ
-	V2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJr
-	ZXkiOiJkSGR2TFhCaGJtVT0ifV0sIiI6W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNj
-	Mk55WldWdUluMD0iLCJrZXkiOiJablZzYkhOamNtVmxiZz09In0seyJkYXRhIjoiZXlK
-	dFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIs
-	ImtleSI6ImRHRnNiQzF5YVdkb2RBPT0ifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRh
-	dGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklq
-	b3dMalE1TVRRMk1UZzFNemt4T1RFMGZRPT0ifV0sIjYwMjAyRDJGLUQyNDEtNEQwOC1C
-	NjdFLUVFMEI5QkQxRTQ3QiI6W3sia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSIsImRhdGEi
-	OiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9In0seyJkYXRhIjoiZXlKdFlXbHVV
-	R0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6
-	ImRHRnNiQzF5YVdkb2RBPT0ifSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElq
-	b3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5Iiwia2V5IjoiZEhkdkxYQmhibVU9
-	In1dLCI4MkMxMkVERC0xNDIxLTQ3QUEtQjRCNC01NzU0MDQ2NzBGMDkiOlt7ImtleSI6
-	IlpuVnNiSE5qY21WbGJnPT0iLCJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1
-	SW4wPSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdG
-	dVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09In0seyJkYXRh
-	IjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93
-	TGpWOSIsImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwiMzYyRjBFMjgtOEFBNS00MDdFLUI2
-	RTAtQjI5MEQ1MUIyOThFIjpbeyJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1
-	SW4wPSIsImtleSI6IlpuVnNiSE5qY21WbGJnPT0ifSx7ImtleSI6ImRHRnNiQzF5YVdk
-	b2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1
-	WlZKaGRHbHZJam93TGpWOSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpv
-	eExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkSGR2TFhCaGJtVT0i
-	fV0sIjQyMzZEQkQ1LTFGRTAtNDYwRS04QkNBLTBDMTE4RUEyMzc0NyI6W3sia2V5Ijoi
-	Wm5Wc2JITmpjbVZsYmc9PSIsImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJ
-	bjA9In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1
-	WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNiQzF5YVdkb2RBPT0ifSx7ImRhdGEi
-	OiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dM
-	alY5Iiwia2V5IjoiZEhkdkxYQmhibVU9In1dLCIzM0ExMjVBQy00QUU3LTQyMkMtODcx
-	QS1FMjkwRjMzMkNGNDMiOlt7ImtleSI6IlpuVnNiSE5qY21WbGJnPT0iLCJkYXRhIjoi
-	ZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdG
-	dVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqUTVPVGcyTnpRM09U
-	UTFPVE14TmpOOSIsImtleSI6ImRHRnNiQzF5YVdkb2RBPT0ifSx7ImtleSI6ImRIZHZM
-	WEJoYm1VPSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVH
-	RnVaVkpoZEdsdklqb3dMalY5In1dLCI5NjhBRjczMC01RjY4LTRFQ0UtQUYxQS1CQkM1
-	Qzg4RkZFQUQiOlt7ImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9Iiwi
-	a2V5IjoiWm5Wc2JITmpjbVZsYmc9PSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZk
-	VzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMx
-	eWFXZG9kQT09In0seyJrZXkiOiJkSGR2TFhCaGJtVT0iLCJkYXRhIjoiZXlKdFlXbHVV
-	R0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9XSwiQkYx
-	RDA2MzgtNDM0RC00MDg5LUI4MjUtQTJGMkJDNzBERTEyIjpbeyJkYXRhIjoiZXlKclpY
-	a2lPaUptZFd4c2MyTnlaV1Z1SW4wPSIsImtleSI6IlpuVnNiSE5qY21WbGJnPT0ifSx7
-	ImtleSI6ImRHRnNiQzF5YVdkb2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRX
-	NTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9LHsia2V5IjoiZEhkdkxY
-	QmhibVU9IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdG
-	dVpWSmhkR2x2SWpvd0xqVjkifV0sIjIxODJEMUI0LUM4QjMtNDM4Ny04Qjc0LTQzMDc0
-	ODZCMDE1OSI6W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0iLCJr
-	ZXkiOiJablZzYkhOamNtVmxiZz09In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRX
-	NTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNiQzF5
-	YVdkb2RBPT0ifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0WVdsdVVH
-	RnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In1dLCIwOEU1
-	RDVEMC1BNTg0LTRBMjItQkY3Qi1CRUUwQjQyMUI2NzgiOlt7ImRhdGEiOiJleUpyWlhr
-	aU9pSm1kV3hzYzJOeVpXVnVJbjA9Iiwia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSJ9LHsi
-	ZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2
-	SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09In0seyJkYXRhIjoiZXlKdFlX
-	bHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtl
-	eSI6ImRIZHZMWEJoYm1VPSJ9XSwiMDg4MTMxQ0MtMTRCOC00Q0RELUIzQzQtODBBNzAz
-	REFCMUQ5IjpbeyJrZXkiOiJablZzYkhOamNtVmxiZz09IiwiZGF0YSI6ImV5SnJaWGtp
-	T2lKbWRXeHNjMk55WldWdUluMD0ifSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1
-	MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5Iiwia2V5IjoiZEdGc2JDMXlh
-	V2RvZEE9PSJ9LHsia2V5IjoiZEhkdkxYQmhibVU9IiwiZGF0YSI6ImV5SnRZV2x1VUdG
-	dVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkifV0sIkZEODNF
-	MEFDLTk2QUEtNDc5My04NkM1LUNDMzZGREE3NkI1OSI6W3sia2V5IjoiWm5Wc2JITmpj
-	bVZsYmc9PSIsImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9In0seyJr
-	ZXkiOiJkR0ZzYkMxeWFXZG9kQT09IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUw
-	SWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkifSx7ImRhdGEiOiJleUp0WVds
-	dVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5Iiwia2V5
-	IjoiZEhkdkxYQmhibVU9In1dLCI1NDY2QTA1Ni0zMDQ5LTRERUItOTVGNC0yMjc1Q0Yx
-	Mjk3MkEiOlt7ImtleSI6IlpuVnNiSE5qY21WbGJnPT0iLCJkYXRhIjoiZXlKclpYa2lP
-	aUptZFd4c2MyTnlaV1Z1SW4wPSJ9LHsia2V5IjoiZEdGc2JDMXlhV2RvZEE9PSIsImRh
-	dGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklq
-	b3dMalY5In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVV
-	R0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwiRkRGN0Ew
-	MzAtMzFFQy00ODEzLUE2MUMtM0ZFQkJEQzBCQzlCIjpbeyJrZXkiOiJablZzYkhOamNt
-	VmxiZz09IiwiZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0ifSx7Imtl
-	eSI6ImRHRnNiQzF5YVdkb2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJ
-	am94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9LHsia2V5IjoiZEhkdkxYQmhi
-	bVU9IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpW
-	SmhkR2x2SWpvd0xqVjkifV0sIjVDMUI1RTk2LTlDMzctNDAwMy05MTMxLUQ1MkVCQURF
-	NzdENSI6W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0iLCJrZXki
-	OiJablZzYkhOamNtVmxiZz09In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJ
-	am94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNiQzF5YVdk
-	b2RBPT0ifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0WVdsdVVHRnVa
-	VU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In1dLCJBOTUxQkVD
-	NC1DQjBGLTRENTItQjU0OC01RTg4NDQ4MERFRUUiOlt7ImtleSI6IlpuVnNiSE5qY21W
-	bGJnPT0iLCJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSJ9LHsiZGF0
-	YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpv
-	d0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09In0seyJkYXRhIjoiZXlKdFlXbHVV
-	R0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpVMU16TTVNalV5
-	T0RBM05qWTNPVFo5Iiwia2V5IjoiZEhkdkxYQmhibVU9In1dLCIwNEFGNjc2Mi03NTU4
-	LTQ3MDItOUQ5QS02ODkzRTUzRjU3QUQiOlt7ImtleSI6IlpuVnNiSE5qY21WbGJnPT0i
-	LCJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSJ9LHsia2V5IjoiZEdG
-	c2JDMXlhV2RvZEE9PSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0
-	WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVO
-	dmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRIZHZM
-	WEJoYm1VPSJ9XSwiRDY3NTZCNDUtQTU2MS00MzY1LUJGQUMtQTcyRDlEODhDMTg5Ijpb
-	eyJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSIsImtleSI6IlpuVnNi
-	SE5qY21WbGJnPT0ifSx7ImtleSI6ImRHRnNiQzF5YVdkb2RBPT0iLCJkYXRhIjoiZXlK
-	dFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9
-	LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhk
-	R2x2SWpvd0xqVjkiLCJrZXkiOiJkSGR2TFhCaGJtVT0ifV19fSwiNDQ1QjNCMUUtNTdF
-	OC00MEFCLUIwQzktQzBDMTMwMzM2MzgzIjp7ImxheW91dHNCeVNwYWNlVVVJRCI6eyJB
-	OTUxQkVDNC1DQjBGLTRENTItQjU0OC01RTg4NDQ4MERFRUUiOlt7ImRhdGEiOiJleUpy
-	WlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9Iiwia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSJ9
-	LHsia2V5IjoiZEdGc2JDMXlhV2RvZEE9PSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52
-	ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In0seyJrZXkiOiJkSGR2
-	TFhCaGJtVT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVV
-	R0Z1WlZKaGRHbHZJam93TGpWOSJ9XSwiNUUwRUU2RDMtNTIyRC00RUQ0LUJDNDUtQ0ZC
-	MURCQURDMDY1IjpbeyJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSIs
-	ImtleSI6IlpuVnNiSE5qY21WbGJnPT0ifSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52
-	ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5Iiwia2V5IjoiZEdGc2JD
-	MXlhV2RvZEE9PSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZ
-	V2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkSGR2TFhCaGJtVT0ifV0sIiI6
-	W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0iLCJrZXkiOiJablZz
-	YkhOamNtVmxiZz09In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENK
-	dFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNiQzF5YVdkb2RBPT0i
-	fSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1
-	MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In1dfX0sIjM3RDg4MzJBLTJE
-	NjYtMDJDQS1COUY3LThGMzBBMzAxQjIzMCI6eyJsYXlvdXRzQnlTcGFjZVVVSUQiOnsi
-	MTU5M0RBNjAtRERERC00MUI5LTlGNUQtODk5MEI3N0ZBQkNFIjpbeyJrZXkiOiJablZz
-	YkhOamNtVmxiZz09IiwiZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0i
-	fSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpo
-	ZEdsdklqb3dMalY5Iiwia2V5IjoiZEdGc2JDMXlhV2RvZEE9PSJ9LHsiZGF0YSI6ImV5
-	SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjki
-	LCJrZXkiOiJkSGR2TFhCaGJtVT0ifV0sIkQ2NzU2QjQ1LUE1NjEtNDM2NS1CRkFDLUE3
-	MkQ5RDg4QzE4OSI6W3sia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSIsImRhdGEiOiJleUpy
-	WlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVO
-	dmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNi
-	QzF5YVdkb2RBPT0ifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0WVds
-	dVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In1dLCIi
-	Olt7ImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9Iiwia2V5IjoiWm5W
-	c2JITmpjbVZsYmc9PSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExD
-	SnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09
-	In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZK
-	aGRHbHZJam93TGpWOSIsImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwiQTk1MUJFQzQtQ0Iw
-	Ri00RDUyLUI1NDgtNUU4ODQ0ODBERUVFIjpbeyJrZXkiOiJablZzYkhOamNtVmxiZz09
-	IiwiZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0ifSx7ImtleSI6ImRH
-	RnNiQzF5YVdkb2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENK
-	dFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9LHsia2V5IjoiZEhkdkxYQmhibVU9Iiwi
-	ZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2
-	SWpvd0xqVjkifV0sIjA4ODEzMUNDLTE0QjgtNENERC1CM0M0LTgwQTcwM0RBQjFEOSI6
-	W3sia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSIsImRhdGEiOiJleUpyWlhraU9pSm1kV3hz
-	YzJOeVpXVnVJbjA9In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENK
-	dFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNiQzF5YVdkb2RBPT0i
-	fSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1
-	MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In1dLCJCRjFEMDYzOC00MzRE
-	LTQwODktQjgyNS1BMkYyQkM3MERFMTIiOlt7ImRhdGEiOiJleUpyWlhraU9pSm1kV3hz
-	YzJOeVpXVnVJbjA9Iiwia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSJ9LHsia2V5IjoiZEdG
-	c2JDMXlhV2RvZEE9PSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0
-	WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5In0seyJrZXkiOiJkSGR2TFhCaGJtVT0iLCJk
-	YXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJ
-	am93TGpWOSJ9XSwiQUY0NDdFOUYtRjc2OS00MEFELTg0OEItMDkzRTRBNjUwNjNFIjpb
-	eyJrZXkiOiJablZzYkhOamNtVmxiZz09IiwiZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNj
-	Mk55WldWdUluMD0ifSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0
-	WVdsdVVHRnVaVkpoZEdsdklqb3dMalY5Iiwia2V5IjoiZEdGc2JDMXlhV2RvZEE9PSJ9
-	LHsia2V5IjoiZEhkdkxYQmhibVU9IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUw
-	SWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkifV0sIjM5NDU3NzU0LUM5MkIt
-	NEJFNC1CM0E5LUZGNjdCRkMxNzBFNCI6W3sia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSIs
-	ImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9In0seyJrZXkiOiJkR0Zz
-	YkMxeWFXZG9kQT09IiwiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZ
-	V2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRh
-	dGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklq
-	b3dMalY5In1dLCI1NjY4MzJERS1DNjEyLTQ2NTQtQkNBOS05MTczQThCRjc4ODEiOlt7
-	ImtleSI6IlpuVnNiSE5qY21WbGJnPT0iLCJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2My
-	TnlaV1Z1SW4wPSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZ
-	V2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09In0s
-	eyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRH
-	bHZJam93TGpWOSIsImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwiQzMxQTgxNTEtRjhFNi00
-	QzJCLTkyQjEtM0VFOEQ3NTQ5QTFFIjpbeyJkYXRhIjoiZXlKclpYa2lPaUptZFd4c2My
-	TnlaV1Z1SW4wPSIsImtleSI6IlpuVnNiSE5qY21WbGJnPT0ifSx7ImtleSI6ImRHRnNi
-	QzF5YVdkb2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlX
-	bHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9LHsia2V5IjoiZEhkdkxYQmhibVU9IiwiZGF0
-	YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpv
-	d0xqVjkifV0sIjhFMDgxOEM5LUU3RTMtNEEyRi1BRTRFLUI0QzIxOTZBNkE2NSI6W3si
-	a2V5IjoiWm5Wc2JITmpjbVZsYmc9PSIsImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJO
-	eVpXVnVJbjA9In0seyJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09IiwiZGF0YSI6ImV5SnRZ
-	V2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkifSx7
-	ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEds
-	dklqb3dMalY5Iiwia2V5IjoiZEhkdkxYQmhibVU9In1dLCI1RTBFRTZEMy01MjJELTRF
-	RDQtQkM0NS1DRkIxREJBREMwNjUiOlt7ImRhdGEiOiJleUpyWlhraU9pSm1kV3hzYzJO
-	eVpXVnVJbjA9Iiwia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSJ9LHsia2V5IjoiZEdGc2JD
-	MXlhV2RvZEE9PSIsImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVds
-	dVVHRnVaVkpoZEdsdklqb3dMalY5In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRX
-	NTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRIZHZMWEJo
-	Ym1VPSJ9XSwiQTdDOEM0NTItNEIwQy00MkNDLTg0OTMtNEQ2QjhDNUQzQURCIjpbeyJk
-	YXRhIjoiZXlKclpYa2lPaUptZFd4c2MyTnlaV1Z1SW4wPSIsImtleSI6IlpuVnNiSE5q
-	Y21WbGJnPT0ifSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVds
-	dVVHRnVaVkpoZEdsdklqb3dMalY5Iiwia2V5IjoiZEdGc2JDMXlhV2RvZEE9PSJ9LHsi
-	ZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2
-	SWpvd0xqVjkiLCJrZXkiOiJkSGR2TFhCaGJtVT0ifV0sIjA4RDFGMjM4LTU3NjUtNDI3
-	Qy1BNzA0LUE5QjU4NzlCRDdBRSI6W3siZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55
-	WldWdUluMD0iLCJrZXkiOiJablZzYkhOamNtVmxiZz09In0seyJkYXRhIjoiZXlKdFlX
-	bHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSIsImtl
-	eSI6ImRHRnNiQzF5YVdkb2RBPT0ifSx7ImtleSI6ImRIZHZMWEJoYm1VPSIsImRhdGEi
-	OiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklqb3dM
-	alY5In1dLCIzM0ExMjVBQy00QUU3LTQyMkMtODcxQS1FMjkwRjMzMkNGNDMiOlt7ImRh
-	dGEiOiJleUpyWlhraU9pSm1kV3hzYzJOeVpXVnVJbjA9Iiwia2V5IjoiWm5Wc2JITmpj
-	bVZsYmc9PSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1
-	VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09In0seyJk
-	YXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVVR0Z1WlZKaGRHbHZJ
-	am93TGpWOSIsImtleSI6ImRIZHZMWEJoYm1VPSJ9XSwiNjQxQzU0NUQtMkYyNy00RkRE
-	LTlDOTItQThDRjJCMTYzMEEzIjpbeyJrZXkiOiJablZzYkhOamNtVmxiZz09IiwiZGF0
-	YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0ifSx7ImtleSI6ImRHRnNiQzF5
-	YVdkb2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVV
-	R0Z1WlZKaGRHbHZJam93TGpWOSJ9LHsiZGF0YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUw
-	SWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXkiOiJkSGR2TFhCaGJt
-	VT0ifV0sIkNBMEFBMTUyLUVFOTYtNEExMy1BODFGLTYxODdEMTgwODU0OSI6W3siZGF0
-	YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0iLCJrZXkiOiJablZzYkhOamNt
-	VmxiZz09In0seyJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJam94TENKdFlXbHVV
-	R0Z1WlZKaGRHbHZJam93TGpWOSIsImtleSI6ImRHRnNiQzF5YVdkb2RBPT0ifSx7ImRh
-	dGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVHRnVaVkpoZEdsdklq
-	b3dMalY5Iiwia2V5IjoiZEhkdkxYQmhibVU9In1dfX0sIjQ4MkE4RjdELUEzNTctNDE2
-	MS04OTlELTY0QUNDMEQ0MDQ0RCI6eyJsYXlvdXRzQnlTcGFjZVVVSUQiOnsiQTk1MUJF
-	QzQtQ0IwRi00RDUyLUI1NDgtNUU4ODQ0ODBERUVFIjpbeyJrZXkiOiJablZzYkhOamNt
-	VmxiZz09IiwiZGF0YSI6ImV5SnJaWGtpT2lKbWRXeHNjMk55WldWdUluMD0ifSx7Imtl
-	eSI6ImRHRnNiQzF5YVdkb2RBPT0iLCJkYXRhIjoiZXlKdFlXbHVVR0Z1WlVOdmRXNTBJ
-	am94TENKdFlXbHVVR0Z1WlZKaGRHbHZJam93TGpWOSJ9LHsiZGF0YSI6ImV5SnRZV2x1
-	VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpvd0xqVjkiLCJrZXki
-	OiJkSGR2TFhCaGJtVT0ifV0sIkFGNDQ3RTlGLUY3NjktNDBBRC04NDhCLTA5M0U0QTY1
-	MDYzRSI6W3sia2V5IjoiWm5Wc2JITmpjbVZsYmc9PSIsImRhdGEiOiJleUpyWlhraU9p
-	Sm1kV3hzYzJOeVpXVnVJbjA9In0seyJrZXkiOiJkR0ZzYkMxeWFXZG9kQT09IiwiZGF0
-	YSI6ImV5SnRZV2x1VUdGdVpVTnZkVzUwSWpveExDSnRZV2x1VUdGdVpWSmhkR2x2SWpv
-	d0xqVjkifSx7ImRhdGEiOiJleUp0WVdsdVVHRnVaVU52ZFc1MElqb3hMQ0p0WVdsdVVH
-	RnVaVkpoZEdsdklqb3dMalY5Iiwia2V5IjoiZEhkdkxYQmhibVU9In1dfX19fX0=
 	</data>
 	<key>KeyboardShortcuts_cycle-layout</key>
 	<string>{"carbonKeyCode":49,"carbonModifiers":2560}</string>
 	<key>KeyboardShortcuts_cycle-layout-backward</key>
-	<string>{"carbonKeyCode":49,"carbonModifiers":6656}</string>
+	<string>{"carbonModifiers":6656,"carbonKeyCode":49}</string>
 	<key>KeyboardShortcuts_decrease-main</key>
 	<string>{"carbonKeyCode":47,"carbonModifiers":2560}</string>
 	<key>KeyboardShortcuts_display-current-layout</key>
@@ -339,7 +36,7 @@
 	<key>KeyboardShortcuts_focus-screen-cw</key>
 	<string>{"carbonKeyCode":45,"carbonModifiers":2560}</string>
 	<key>KeyboardShortcuts_increase-main</key>
-	<string>{"carbonKeyCode":43,"carbonModifiers":2560}</string>
+	<string>{"carbonModifiers":2560,"carbonKeyCode":43}</string>
 	<key>KeyboardShortcuts_reevaluate-windows</key>
 	<string>{"carbonKeyCode":6,"carbonModifiers":2560}</string>
 	<key>KeyboardShortcuts_relaunch-amethyst</key>
@@ -351,7 +48,7 @@
 	<key>KeyboardShortcuts_select-tall-layout</key>
 	<string>{"carbonKeyCode":0,"carbonModifiers":2560}</string>
 	<key>KeyboardShortcuts_select-wide-layout</key>
-	<string>{"carbonKeyCode":1,"carbonModifiers":2560}</string>
+	<string>{"carbonModifiers":2560,"carbonKeyCode":1}</string>
 	<key>KeyboardShortcuts_shrink-main</key>
 	<string>{"carbonKeyCode":4,"carbonModifiers":2560}</string>
 	<key>KeyboardShortcuts_swap-ccw</key>
@@ -404,20 +101,15 @@
 	<string>{"carbonKeyCode":7,"carbonModifiers":6656}</string>
 	<key>KeyboardShortcuts_toggle-tiling</key>
 	<string>{"carbonKeyCode":17,"carbonModifiers":6656}</string>
-	<key>NSNavLastRootDirectory</key>
-	<string>/Applications</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
-	<string>{833, 598}</string>
-	<key>NSStatusItem Preferred Position Item-0</key>
-	<real>406</real>
-	<key>NSWindow Frame GoToSheet</key>
-	<string>1406 1115 460 236 0 0 3200 1775 </string>
+	<string>{800, 448}</string>
+	<key>NSOSPLastRootDirectory</key>
+	<data>
+	</data>
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
-	<string>1535 1152 833 598 0 0 3840 2135 </string>
-	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>1015 1341 620 398 0 0 3840 2135 </string>
+	<string>1558 1265 800 448 0 0 3840 2135 </string>
 	<key>SUAutomaticallyUpdate</key>
-	<false/>
+	<true/>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
@@ -425,64 +117,17 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2025-02-05T11:28:59Z</date>
+	<date>2025-10-28T15:37:50Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateGroupIdentifier</key>
-	<integer>13048389</integer>
-	<key>cycle-layout</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEDGAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>cycle-layout-backward</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEDGAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
+	<integer>2254233467</integer>
 	<key>debug-layout-info</key>
 	<false/>
-	<key>decrease-main</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEC+AAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>disable-padding-on-builtin-display</key>
-	<false/>
-	<key>display-current-layout</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECKAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
 	<key>enables-layout-hud</key>
 	<true/>
 	<key>enables-layout-hud-on-space-change</key>
 	<true/>
-	<key>expand-main</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECWAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
 	<key>float-small-windows</key>
 	<true/>
 	<key>floating</key>
@@ -519,24 +164,6 @@
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>com.apple.launchpad.launcher</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.apple.exposelauncher</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.apple.siri.launcher</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
 			<string>com.apple.Stickies</string>
 			<key>window-titles</key>
 			<array/>
@@ -550,12 +177,6 @@
 		<dict>
 			<key>id</key>
 			<string>com.apple.systempreferences</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.apple.backup.launcher</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
@@ -579,6 +200,30 @@
 		</dict>
 		<dict>
 			<key>id</key>
+			<string>com.apple.launchpad.launcher</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.apple.exposelauncher</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.apple.siri.launcher</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.apple.backup.launcher</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
 			<string>com.apple.ActivityMonitor</string>
 			<key>window-titles</key>
 			<array/>
@@ -597,13 +242,24 @@
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>com.apple.keychainaccess</string>
+			<string>com.amethyst.Amethyst</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>com.apple.finder</string>
+			<string>org.mozilla.firefox</string>
+			<key>window-titles</key>
+			<array>
+				<string>Developer Tools</string>
+				<string>noVNC</string>
+				<string>Library</string>
+				<string>Extension:.*</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.apple.keychainaccess</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
@@ -619,42 +275,7 @@
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>org.mozilla.firefox</string>
-			<key>window-titles</key>
-			<array>
-				<string>Developer Tools</string>
-				<string>Extension:</string>
-				<string>noVNC</string>
-				<string>Library</string>
-			</array>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.google.Chrome.app.kjgfgldnnfoeklkmfkjfagphfepbbdan</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.manytricks.KeyCodes</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
 			<string>org.hammerspoon.Hammerspoon</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.microsoft.teams2</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.electron.pritunl</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
@@ -674,33 +295,13 @@
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>us.zoom.xos</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.tinyspeck.slackmacgap</string>
-			<key>window-titles</key>
-			<array>
-				<string>Huddle</string>
-			</array>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>com.company.peazip</string>
-			<key>window-titles</key>
-			<array/>
-		</dict>
-		<dict>
-			<key>id</key>
 			<string>com.apple.Notes</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>io.rancherdesktop.app</string>
+			<string>com.tinyspeck.slackmacgap</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
@@ -712,129 +313,132 @@
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>com.docker.docker</string>
+			<string>com.apple.ScreenSharing</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
 		<dict>
 			<key>id</key>
-			<string>com.apple.ScreenSharing</string>
+			<string>com.google.android.studio</string>
+			<key>window-titles</key>
+			<array>
+				<string>Settings</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.apple.finder</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.jetbrains.intellij</string>
+			<key>window-titles</key>
+			<array>
+				<string>^(?!public-website-.).*</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.google.Chrome.app.kjgfgldnnfoeklkmfkjfagphfepbbdan</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.microsoft.rdc.macos</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>io.kandji.Self-Service</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.torusknot.SourceTreeNotMAS</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.jetbrains.rider</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>app.tuple.app</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>us.zoom.xos</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.barracuda.Barracuda-VPN-Client-Old-UI</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>net.whatsapp.WhatsApp</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.nuebling.mac-mouse-fix</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.apple.MobileSMS</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.jetbrains.pycharm</string>
+			<key>window-titles</key>
+			<array>
+				<string>^(?!public-website-.).*</string>
+			</array>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.bitwarden.desktop</string>
+			<key>window-titles</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>com.razer.synapse</string>
 			<key>window-titles</key>
 			<array/>
 		</dict>
 	</array>
 	<key>floating-is-blacklist</key>
-	<true/>
-	<key>focus-ccw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECaAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-cw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECiAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
+	<integer>1</integer>
 	<key>focus-follows-mouse</key>
 	<false/>
-	<key>focus-main</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEC6AAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-screen-1</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEA2AAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-screen-2</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEA6AAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-screen-3</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEA+AAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-screen-4</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAyAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-screen-5</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAWAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-screen-ccw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECOAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>focus-screen-cw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEC2AAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
 	<key>follow-space-thrown-windows</key>
 	<true/>
 	<key>ignore-menu-bar</key>
 	<false/>
-	<key>increase-main</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECuAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
 	<key>layouts</key>
 	<array>
 		<string>fullscreen</string>
-		<string>tall-right</string>
 		<string>two-pane</string>
+		<string>tall-right</string>
 	</array>
 	<key>migrated-command1</key>
 	<true/>
@@ -995,24 +599,6 @@
 	<true/>
 	<key>new-windows-to-main</key>
 	<false/>
-	<key>reevaluate-windows</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAaAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>relaunch-amethyst</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAaAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
 	<key>restore-layouts-on-launch</key>
 	<true/>
 	<key>screen-padding-bottom</key>
@@ -1023,278 +609,12 @@
 	<integer>0</integer>
 	<key>screen-padding-top</key>
 	<integer>0</integer>
-	<key>select-column-layout</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAChC1UkbnVsbAgRGiQpMjdJTFFT
-	VQAAAAAAAAEBAAAAAAAAAAwAAAAAAAAAAAAAAAAAAABb
-	</data>
-	<key>select-fullscreen-layout</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAKAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>select-tall-layout</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEACAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>select-wide-layout</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAChC1UkbnVsbAgRGiQpMjdJTFFT
-	VQAAAAAAAAEBAAAAAAAAAAwAAAAAAAAAAAAAAAAAAABb
-	</data>
-	<key>shrink-main</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEASAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>smart-window-margins</key>
-	<true/>
-	<key>swap-ccw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECaAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>swap-cw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECiAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>swap-main</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECSAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>swap-screen-ccw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEASAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>swap-screen-cw</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzECWAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-screen-1</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEA2AAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-screen-2</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEA6AAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-screen-3</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEA+AAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-screen-4</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAyAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-screen-5</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAWAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-1</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBKAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-10</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEB2AAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-2</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBOAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-3</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBSAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-4</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBWAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-5</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBeAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-6</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBaAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-7</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBqAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-8</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEByAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-9</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBmAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-left</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEHuAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>throw-space-right</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEHyAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>toggle-float</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBGAAhIACgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>toggle-focus-follows-mouse</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEAeAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
-	<key>toggle-tiling</key>
-	<data>
-	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
-	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxAREldL
-	ZXlDb2RlViRjbGFzc11Nb2RpZmllckZsYWdzEBGAAhIADgAA0hQVFhdaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1tNQVNTaG9ydGN1dKIYGVtNQVNTaG9ydGN1dFhOU09iamVjdAgRGiQp
-	MjdJTFFTV11kbHOBg4WKj5qjr7K+AAAAAAAAAQEAAAAAAAAAGgAAAAAAAAAAAAAAAAAA
-	AMc=
-	</data>
 	<key>use-canary-build</key>
 	<false/>
 	<key>window-margin-size</key>
-	<real>4</real>
+	<integer>0</integer>
 	<key>window-margins</key>
-	<true/>
+	<false/>
 	<key>window-max-count</key>
 	<integer>0</integer>
 	<key>window-minimum-height</key>
