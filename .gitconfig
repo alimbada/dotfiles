@@ -3,7 +3,7 @@
 	email = alimbada@users.noreply.github.com
 [core]
 	pager = less -FX
-	autocrlf = true
+	autocrlf = false
 [pull]
 	rebase = false
 [credential]
