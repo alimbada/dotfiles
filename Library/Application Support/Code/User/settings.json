@@ -1,0 +1,161 @@
+{
+    "[csv (pipe)]": {
+        "editor.inlayHints.maximumLength": 0
+    },
+    "[csv]": {
+        "editor.inlayHints.maximumLength": 0
+    },
+    "[feature]": {
+        "editor.defaultFormatter": "alexkrechik.cucumberautocomplete"
+    },
+    "[go]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "never"
+        }
+    },
+    "[java]": {
+        "editor.foldingImportsByDefault": true,
+        "editor.suggest.snippetsPreventQuickSuggestions": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSaveMode": "modificationsIfAvailable"
+    },
+    "[terraform-vars]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "[terraform]": {
+        "editor.defaultFormatter": "hashicorp.terraform",
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "accessibility.signals.terminalBell": {
+        "sound": "on"
+    },
+    "autopep8.args": [
+        "--max-line-length",
+        "120"
+    ],
+    "black-formatter.args": [
+        "--line-length",
+        "120"
+    ],
+    "chat.agent.enabled": false,
+    "chat.disableAIFeatures": true,
+    "dataWrangler.columnInsights.displayOnOpen": false,
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "debug.console.fontSize": 14,
+    "debug.onTaskErrors": "debugAnyway",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "editor.fontSize": 14,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.formatOnType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        121
+    ],
+    "editor.scrollBeyondLastLine": false,
+    "explorer.autoReveal": false,
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "off",
+    "files.insertFinalNewline": true,
+    "flake8.args": [
+        "--max-line-length=120",
+        //"--ignore=E402,F841,F401,E302,E305",
+    ],
+    "git.autofetch": true,
+    "git.autoRepositoryDetection": "openEditors",
+    "git.confirmSync": false,
+    "git.openRepositoryInParentFolders": "never",
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    "java.completion.matchCase": "off",
+    "python.terminal.useEnvFile": true,
+    "references.preferredLocation": "view",
+    "remote.SSH.remotePlatform": {},
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.useLocalServer": false,
+    "scm.repositories.selectionMode": "single",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.defaultProfile.osx": "fish",
+    "terminal.integrated.enableVisualBell": true,
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.macOptionIsMeta": true,
+    "terminal.integrated.profiles.osx": {
+        "fish": {
+            "path": "/opt/homebrew/bin/fish"
+        }
+    },
+    "terminal.integrated.scrollback": 3000,
+    "terminal.integrated.suggest.enabled": false,
+    "terminal.integrated.tabs.focusMode": "singleClick",
+    "terminal.integrated.tabs.showActions": "never",
+    "testing.automaticallyOpenPeekView": "never",
+    "vim.smartRelativeLine": true,
+    "workbench.colorCustomizations": {
+        "terminal.ansiBlack": "#282936",
+        "terminal.ansiBlue": "#62D6E8",
+        "terminal.ansiBrightBlack": "#626483",
+        "terminal.ansiBrightBlue": "#62D6E8",
+        "terminal.ansiBrightCyan": "#A1EFE4",
+        "terminal.ansiBrightGreen": "#EBFF87",
+        "terminal.ansiBrightMagenta": "#B45BCF",
+        "terminal.ansiBrightRed": "#EA51B2",
+        "terminal.ansiBrightWhite": "#F7F7FB",
+        "terminal.ansiBrightYellow": "#00F769",
+        "terminal.ansiCyan": "#A1EFE4",
+        "terminal.ansiGreen": "#EBFF87",
+        "terminal.ansiMagenta": "#B45BCF",
+        "terminal.ansiRed": "#EA51B2",
+        "terminal.ansiWhite": "#E9E9F4",
+        "terminal.ansiYellow": "#00F769",
+        "terminal.background": "#282936",
+        "terminal.foreground": "#E9E9F4",
+        "terminalCursor.background": "#E9E9F4",
+        "terminalCursor.foreground": "#E9E9F4"
+    },
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.openPositioning": "last",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "workbench.startupEditor": "none"
+}
