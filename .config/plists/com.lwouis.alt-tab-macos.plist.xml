@@ -61,6 +61,10 @@
 	AFMAWwBhAGYAcQB4AHoAfAB+AIUAkgCcAJ4AoACiAKcArwC4ALoAvwDKANMA2gDdAOYA
 	6wEDAQcBHwExATYBRQFJAAAAAAAAAgEAAAAAAAAAKwAAAAAAAAAAAAAAAAAAAVE=
 	</data>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Applications</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{800, 448}</string>
 	<key>NSStatusItem Preferred Position Item-0</key>
 	<real>404</real>
 	<key>NSWindow Frame NSFontPanel</key>
@@ -77,12 +81,18 @@
 	<integer>4098502811</integer>
 	<key>SUUpdateRelaunchingMarker</key>
 	<false/>
+	<key>alignThumbnails</key>
+	<string>1</string>
+	<key>appearanceSize</key>
+	<string>3</string>
 	<key>appearanceStyle</key>
-	<string>1</string>
-	<key>appsToShow2</key>
-	<string>1</string>
+	<string>0</string>
 	<key>appsToShow3</key>
 	<string>0</string>
+	<key>captureWindowsInBackground</key>
+	<string>false</string>
+	<key>exceptions</key>
+	<string>[{"bundleIdentifier":"com.McAfee.McAfeeSafariHost","ignore":"0","hide":"1"},{"bundleIdentifier":"com.apple.finder","ignore":"0","hide":"2"},{"bundleIdentifier":"com.microsoft.rdc.macos","ignore":"2","hide":"0"},{"bundleIdentifier":"com.teamviewer.TeamViewer","ignore":"2","hide":"0"},{"bundleIdentifier":"org.virtualbox.app.VirtualBoxVM","ignore":"2","hide":"0"},{"bundleIdentifier":"com.parallels.","ignore":"2","hide":"0"},{"bundleIdentifier":"com.citrix.XenAppViewer","ignore":"2","hide":"0"},{"bundleIdentifier":"com.citrix.receiver.icaviewer.mac","ignore":"2","hide":"0"},{"bundleIdentifier":"com.nicesoftware.dcvviewer","ignore":"2","hide":"0"},{"bundleIdentifier":"com.vmware.fusion","ignore":"2","hide":"0"},{"bundleIdentifier":"com.apple.ScreenSharing","ignore":"2","hide":"0"},{"bundleIdentifier":"com.utmapp.UTM","ignore":"2","hide":"0"},{"windowTitleContains":"","bundleIdentifier":"com.amethyst.Amethyst","ignore":"0","hide":"2"}]</string>
 	<key>hideAppBadges</key>
 	<string>true</string>
 	<key>hideColoredCircles</key>
@@ -90,8 +100,6 @@
 	<key>hideSpaceNumberLabels</key>
 	<string>true</string>
 	<key>hideStatusIcons</key>
-	<string>true</string>
-	<key>hideWindowlessApps</key>
 	<string>true</string>
 	<key>holdShortcut</key>
 	<string>⌘</string>
@@ -104,34 +112,38 @@
 	<key>nextWindowShortcut3</key>
 	<string>⇥</string>
 	<key>preferencesVersion</key>
-	<string>7.30.0</string>
-	<key>previewFocusedWindow</key>
+	<string>10.12.0</string>
+	<key>screenRecordingPermissionSkipped</key>
 	<string>false</string>
 	<key>screensToShow</key>
 	<string>1</string>
+	<key>settingsWindowShownOnFirstLaunch</key>
+	<string>true</string>
+	<key>shortcutCount</key>
+	<string>3</string>
+	<key>showAppsOrWindows</key>
+	<string>1</string>
 	<key>showHiddenWindows</key>
 	<string>0</string>
-	<key>showHiddenWindows2</key>
-	<string>0</string>
-	<key>showHiddenWindows3</key>
-	<string>0</string>
 	<key>showMinimizedWindows</key>
-	<string>0</string>
+	<string>1</string>
 	<key>showOnScreen</key>
 	<string>1</string>
+	<key>showTabsAsWindows</key>
+	<string>false</string>
+	<key>showTitles</key>
+	<string>0</string>
 	<key>showWindowlessApps</key>
-	<integer>1</integer>
+	<string>1</string>
 	<key>showWindowlessApps2</key>
-	<integer>1</integer>
+	<string>1</string>
 	<key>showWindowlessApps3</key>
-	<integer>1</integer>
-	<key>showWindowlessApps4</key>
-	<integer>1</integer>
+	<string>1</string>
 	<key>spacesToShow</key>
+	<string>1</string>
+	<key>titleTruncation</key>
 	<string>1</string>
 	<key>updatePolicy</key>
 	<string>1</string>
-	<key>windowMaxWidthInRow</key>
-	<string>30</string>
 </dict>
 </plist>

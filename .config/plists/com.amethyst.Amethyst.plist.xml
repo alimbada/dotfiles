@@ -128,6 +128,8 @@
 	<true/>
 	<key>enables-layout-hud-on-space-change</key>
 	<true/>
+	<key>enables-window-count-hud</key>
+	<false/>
 	<key>float-small-windows</key>
 	<true/>
 	<key>floating</key>
@@ -437,8 +439,8 @@
 	<key>layouts</key>
 	<array>
 		<string>fullscreen</string>
-		<string>two-pane</string>
-		<string>tall-right</string>
+		<string>two-pane-right</string>
+		<string>tall</string>
 	</array>
 	<key>migrated-command1</key>
 	<true/>
@@ -454,7 +456,13 @@
 	<true/>
 	<key>migrated-decrease-main</key>
 	<true/>
+	<key>migrated-decrease-window-max-count</key>
+	<true/>
+	<key>migrated-disable-tiling</key>
+	<true/>
 	<key>migrated-display-current-layout</key>
+	<true/>
+	<key>migrated-enable-tiling</key>
 	<true/>
 	<key>migrated-expand-main</key>
 	<true/>
@@ -479,6 +487,8 @@
 	<key>migrated-focus-screen-cw</key>
 	<true/>
 	<key>migrated-increase-main</key>
+	<true/>
+	<key>migrated-increase-window-max-count</key>
 	<true/>
 	<key>migrated-reevaluate-windows</key>
 	<true/>
@@ -609,6 +619,8 @@
 	<integer>0</integer>
 	<key>screen-padding-top</key>
 	<integer>0</integer>
+	<key>small-window-size</key>
+	<integer>500</integer>
 	<key>use-canary-build</key>
 	<false/>
 	<key>window-margin-size</key>
