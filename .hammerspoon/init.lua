@@ -1,2 +1,3 @@
 require "lgtv_init"
-require "lgtv_control"
+require "lgtv_hotkeys"
+require "lgtv_kvm_switch"
