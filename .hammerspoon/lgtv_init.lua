@@ -72,7 +72,7 @@ function lgtv_dump_table(o)
 end
 
 function lgtv_exec_command(command)
-  command = lgtv_cmd.." "..command
+  command = lgtv_cmd.. " " ..command.. "&> /dev/null & disown"
   lgtv_log_d("Executing command: "..command)
   return hs.execute(command)
 end
